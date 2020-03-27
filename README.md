@@ -4,7 +4,7 @@ TeamCity REST API used for communication
 Essentially bash is enough to get requiered info
 However to make look more like a "script" I've done some job with Go language
 
-compile 
+build: 
 go build *.go 
 
 help
