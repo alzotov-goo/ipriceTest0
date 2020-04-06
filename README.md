@@ -4,10 +4,12 @@
 * Essentially bash is enough to get required info  
 * However to make it look more like a "script on programming language" I've done some job with Go language  
 
-build: 
+build:
+
         go build *.go 
 
-help
+help:
+
         *.exe --help
 
 *builds* script:  
