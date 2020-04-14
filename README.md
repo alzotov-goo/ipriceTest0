@@ -1,8 +1,9 @@
 ### Scripts to work with TeamCity on Go(lang)  
 * demonstartes Go working with http connection  
 * TeamCity REST API used for communication  
-* Essentially bash is enough to get required info  
-* However to make it look more like a "script on programming language" I've done some job with Go language  
+
+Essentially bash is enough to get required info  
+However to make it look more like a "script on programming language" I've done some job with Go language  
 
 build:
 
