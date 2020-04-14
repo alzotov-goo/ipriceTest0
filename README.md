@@ -18,7 +18,7 @@ get successful builds in all branches since 2020/01 (by default)
         builds -url=teamcitybaseurl -login=test@user:password  
 
 *changes* script:  
-list of changes for sertain build (more details of every change is TODO if needed)
+list of changes for certain build (more details of every change is TODO if needed)
 
         changes -url=teamcitybaseurl -login=test@user:password -buildId=12345
 
